@@ -1,4 +1,4 @@
 interface:
   display_name: "学习笔记套图"
   short_description: "将播客、文章与笔记整理为忠实正文、发布文案和完整活页学习笔记套图"
-  default_prompt: "使用 $study-note-carousel 将这份素材整理为完整学习笔记套图并保存到项目。"
+  default_prompt: "请使用「学习笔记套图」技能（$study-note-carousel），将这份素材整理为完整的中文学习笔记套图，并保存到当前项目。"
